@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "401488696209",
+    "firebase_url": "https://nossicomtr-6b458.firebaseio.com",
+    "project_id": "nossicomtr-6b458",
+    "storage_bucket": "nossicomtr-6b458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401488696209:android:079d05f73489a288b8c030",
+        "android_client_info": {
+          "package_name": "com.kerimbora.nossicomtr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401488696209-2586j5s47pisjsmjavofaeqbff56jdh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO21vERycVUfM7gMxF9KkEQ3uZNdKFjJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401488696209-2586j5s47pisjsmjavofaeqbff56jdh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
